@@ -1,0 +1,16 @@
+marketplace-dev-brlm
+nacforescout-dev-brlm-jyh
+orcamento-dev-brlm-u30
+partner-dev-brlm
+planejamento-compras-dev-brlm
+sap-dev-brlm
+sap-dev-update-brlm-yqh
+sap-tdf-dev-brlm
+sap-update-qas-brlm-47i
+solucao-dados-dev-brlm
+tracking-omnichannel-dev
+venda-assistida-dev-brlm
+lmbr-instala-hom
+imp-prd-brlm
+prd-magenceo-brlm-rey
+delivery-promise-prd
