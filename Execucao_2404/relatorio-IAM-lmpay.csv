@@ -1,0 +1,16 @@
+Usuário,Role,Ação,Projeto
+user:arialmeida@leroymerlin.com.br,roles/cloudfunctions.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:aroberto@ext.leroymerlin.com.br,roles/cloudfunctions.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:dvferreira@ext.leroymerlin.com.br,roles/cloudfunctions.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:jopgrasselli@leroymerlin.com.br,roles/cloudfunctions.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:arialmeida@leroymerlin.com.br,roles/editor,Permissões removidas,lmpay-prd-brlm-lc0
+user:jopgrasselli@leroymerlin.com.br,roles/iam.serviceAccountAdmin,Permissões removidas,lmpay-prd-brlm-lc0
+user:jopgrasselli@leroymerlin.com.br,roles/iam.serviceAccountKeyAdmin,Permissões removidas,lmpay-prd-brlm-lc0
+user:arialmeida@leroymerlin.com.br,roles/logging.viewer,Permissões removidas,lmpay-prd-brlm-lc0
+user:aroberto@ext.leroymerlin.com.br,roles/logging.viewer,Permissões removidas,lmpay-prd-brlm-lc0
+user:dvferreira@ext.leroymerlin.com.br,roles/logging.viewer,Permissões removidas,lmpay-prd-brlm-lc0
+user:jopgrasselli@leroymerlin.com.br,roles/logging.viewer,Permissões removidas,lmpay-prd-brlm-lc0
+user:arialmeida@leroymerlin.com.br,roles/pubsub.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:aroberto@ext.leroymerlin.com.br,roles/pubsub.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:dvferreira@ext.leroymerlin.com.br,roles/pubsub.admin,Permissões removidas,lmpay-prd-brlm-lc0
+user:jopgrasselli@leroymerlin.com.br,roles/pubsub.admin,Permissões removidas,lmpay-prd-brlm-lc0

@@ -1,0 +1,239 @@
+Analisando projeto: delivery-promise-prd-brlm
+
+Removendo permissões do user:cagoncalves@leroymerlin.com.br,projects/delivery-promise-prd-brlm/roles/instanceBasicAdmin no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/artifactregistry.reader no projeto delivery-promise-prd-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto delivery-promise-prd-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto delivery-promise-prd-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto delivery-promise-prd-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto delivery-promise-prd-brlm
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:crudan@ext.leroymerlin.com.br,roles/cloudsql.admin no projeto delivery-promise-prd-brlm
+Removendo permissões do user:edanieleski@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:rmattioda@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:edanieleski@ext.leroymerlin.com.br,roles/cloudsql.instanceUser no projeto delivery-promise-prd-brlm
+Removendo permissões do user:rmattioda@ext.leroymerlin.com.br,roles/cloudsql.instanceUser no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/container.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/dataflow.developer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:emichels@ext.leroymerlin.com.br,roles/editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:tksilva@ext.leroymerlin.com.br,roles/editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/monitoring.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:jpsanchez@ext.leroymerlin.com.br,roles/owner no projeto delivery-promise-prd-brlm
+Removendo permissões do user:silmsilva@leroymerlin.com.br,roles/owner no projeto delivery-promise-prd-brlm
+Removendo permissões do user:crudan@ext.leroymerlin.com.br,roles/pubsub.admin no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/pubsub.editor no projeto delivery-promise-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto delivery-promise-prd-brlm
+Removendo permissões do user:robertoleandro@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto delivery-promise-prd-brlm
+
+Analisando projeto: fidelidade-prod-brlm
+
+Removendo permissões do user:cagoncalves@leroymerlin.com.br,projects/fidelidade-prod-brlm/roles/instanceBasicAdmin no projeto fidelidade-prod-brlm
+Removendo permissões do user:vtakahashi@ext.leroymerlin.com.br,projects/fidelidade-prod-brlm/roles/instanceBasicAdmin no projeto fidelidade-prod-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto fidelidade-prod-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto fidelidade-prod-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto fidelidade-prod-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto fidelidade-prod-brlm
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:dmonteiro@ext.leroymerlin.com.br,roles/cloudsql.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:vtakahashi@ext.leroymerlin.com.br,roles/cloudsql.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:jbrandl@leroymerlin.com.br,roles/cloudsql.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:victorgsilva@leroymerlin.com.br,roles/cloudsql.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:vtakahashi@ext.leroymerlin.com.br,roles/cloudtrace.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:v.gutierrez@ext.leroymerlin.com.br,roles/compute.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:bluchini@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:cevsampaio@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:hgsantos@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:jopgrasselli@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:lbassoli@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:psantana@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:racordeiro@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:v.gutierrez@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:vicgutierrez@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:wmrsantos@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/container.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/dataflow.developer no projeto fidelidade-prod-brlm
+Removendo permissões do user:dmonteiro@ext.leroymerlin.com.br,roles/editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:eorige@leroymerlin.com.br,roles/editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:jopgrasselli@leroymerlin.com.br,roles/editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:jopgrasselli@leroymerlin.com.br,roles/iam.securityAdmin no projeto fidelidade-prod-brlm
+Removendo permissões do user:v.gutierrez@ext.leroymerlin.com.br,roles/iam.serviceAccountUser no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:jbrandl@leroymerlin.com.br,roles/monitoring.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:v.gutierrez@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:victorgsilva@leroymerlin.com.br,roles/monitoring.viewer no projeto fidelidade-prod-brlm
+Usuário group:infracloud@leroymerlin.com.br,roles/owner é permitido no projeto fidelidade-prod-brlm
+Removendo permissões do user:eorige@leroymerlin.com.br,roles/pubsub.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:hgsantos@ext.leroymerlin.com.br,roles/pubsub.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:v.gutierrez@ext.leroymerlin.com.br,roles/pubsub.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:bluchini@ext.leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:lbassoli@ext.leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:psantana@ext.leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:racordeiro@ext.leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:vicgutierrez@ext.leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:victorgsilva@leroymerlin.com.br,roles/pubsub.editor no projeto fidelidade-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:victorgsilva@leroymerlin.com.br,roles/storage.admin no projeto fidelidade-prod-brlm
+Removendo permissões do user:vicgutierrez@ext.leroymerlin.com.br,roles/viewer no projeto fidelidade-prod-brlm
+Removendo permissões do user:wmrsantos@leroymerlin.com.br,roles/viewer no projeto fidelidade-prod-brlm
+
+Analisando projeto: lm-payment-prd-brlm
+
+Removendo permissões do user:cagoncalves@leroymerlin.com.br,projects/lm-payment-prd-brlm/roles/instanceBasicAdmin no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/bigquery.dataEditor no projeto lm-payment-prd-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto lm-payment-prd-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/bigquery.dataViewer no projeto lm-payment-prd-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto lm-payment-prd-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto lm-payment-prd-brlm
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/cloudfunctions.admin no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/cloudfunctions.admin no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/cloudfunctions.developer no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/cloudfunctions.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/cloudsql.admin no projeto lm-payment-prd-brlm
+Removendo permissões do user:dmonteiro@ext.leroymerlin.com.br,roles/cloudsql.admin no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/cloudsql.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/cloudsql.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/container.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/dataflow.developer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/iam.securityReviewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/logging.logWriter no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/logging.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/logging.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/monitoring.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/monitoring.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto lm-payment-prd-brlm
+Usuário group:infracloud@leroymerlin.com.br,roles/owner é permitido no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/pubsub.admin no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/pubsub.admin no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/pubsub.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/pubsub.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.editor no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/pubsub.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:jopgrasselli@leroymerlin.com.br,roles/pubsub.viewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/storage.objectUser no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/storage.objectUser no projeto lm-payment-prd-brlm
+Removendo permissões do user:arialmeida@leroymerlin.com.br,roles/storage.objectViewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:dvferreira@ext.leroymerlin.com.br,roles/storage.objectViewer no projeto lm-payment-prd-brlm
+Removendo permissões do user:dmonteiro@ext.leroymerlin.com.br,roles/viewer no projeto lm-payment-prd-brlm
+
+Analisando projeto: lmpay-prd-lmbr-w2s
+
+ERROR: (gcloud.projects.get-iam-policy) User [rpdias@leroymerlin.com.br] does not have permission to access projects instance [lmpay-prd-lmbr-w2s:getIamPolicy] (or it may not exist): The caller does not have permission
+Removendo permissões do  no projeto lmpay-prd-lmbr-w2s
+ERROR: (gcloud.projects.remove-iam-policy-binding) User [rpdias@leroymerlin.com.br] does not have permission to access projects instance [lmpay-prd-lmbr-w2s:getIamPolicy] (or it may not exist): The caller does not have permission
+
+Analisando projeto: senhasegura-prod-brlm-4jg
+
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto senhasegura-prod-brlm-4jg
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto senhasegura-prod-brlm-4jg
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto senhasegura-prod-brlm-4jg
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto senhasegura-prod-brlm-4jg
+Usuário group:infranetwork@leroymerlin.com.br,roles/compute.admin é permitido no projeto senhasegura-prod-brlm-4jg
+Usuário group:infranetwork@leroymerlin.com.br,roles/compute.networkAdmin é permitido no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/container.viewer no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/dataflow.developer no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:thicarvalho@leroymerlin.com.br,roles/editor no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.editor no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto senhasegura-prod-brlm-4jg
+Usuário group:infranetwork@leroymerlin.com.br,roles/networkmanagement.admin é permitido no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.editor no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto senhasegura-prod-brlm-4jg
+Removendo permissões do user:ericsilva@leroymerlin.com.br,roles/viewer no projeto senhasegura-prod-brlm-4jg
+
+Analisando projeto: customer-datacheck-prd-brlm
+
+Removendo permissões do user:cagoncalves@leroymerlin.com.br,projects/customer-datacheck-prd-brlm/roles/instanceBasicAdmin no projeto customer-datacheck-prd-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto customer-datacheck-prd-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto customer-datacheck-prd-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto customer-datacheck-prd-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/container.viewer no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/dataflow.developer no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.editor no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto customer-datacheck-prd-brlm
+Usuário group:infracloud@leroymerlin.com.br,roles/owner é permitido no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.editor no projeto customer-datacheck-prd-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto customer-datacheck-prd-brlm
+
+Analisando projeto: guardicore-prod-brlm
+
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto guardicore-prod-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto guardicore-prod-brlm
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto guardicore-prod-brlm
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto guardicore-prod-brlm
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto guardicore-prod-brlm
+Removendo permissões do user:ericsilva@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:flmariano@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:fresende@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:lthocoya@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:ppaulon@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:prcribeiro@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:rpsantos@ext.leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:rsandrade@leroymerlin.com.br,roles/compute.instanceAdmin.v1 no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/container.viewer no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/dataflow.developer no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.editor no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/monitoring.viewer no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.editor no projeto guardicore-prod-brlm
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/pubsub.viewer no projeto guardicore-prod-brlm
+
+Analisando projeto: infra-selfservice-prd
+
+Removendo permissões do user:cagoncalves@leroymerlin.com.br,projects/infra-selfservice-prd/roles/instanceBasicAdmin no projeto infra-selfservice-prd
+Removendo permissões do user:cfoliveira@ext.leroymerlin.com.br,projects/infra-selfservice-prd/roles/instanceBasicAdmin no projeto infra-selfservice-prd
+Removendo permissões do user:dmonteiro@ext.leroymerlin.com.br,projects/infra-selfservice-prd/roles/instanceBasicAdmin no projeto infra-selfservice-prd
+Removendo permissões do user:mvasilva@ext.leroymerlin.com.br,projects/infra-selfservice-prd/roles/instanceBasicAdmin no projeto infra-selfservice-prd
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto infra-selfservice-prd
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataEditor é permitido no projeto infra-selfservice-prd
+Usuário user:judbrandao@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto infra-selfservice-prd
+Usuário user:rmoura@leroymerlin.com.br,roles/bigquery.dataViewer é permitido no projeto infra-selfservice-prd
+Removendo permissões do user:vicsouza@leroymerlin.com.br,roles/bigquery.dataViewer no projeto infra-selfservice-prd
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.developer no projeto infra-selfservice-prd
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudfunctions.viewer no projeto infra-selfservice-prd
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.editor no projeto infra-selfservice-prd
+Removendo permissões do user:farmando@ext.leroymerlin.com.br,roles/cloudsql.viewer no projeto infra-selfservice-prd
+^C
+rdias@WS000NB1626:/mnt/g/Meu Drive/code/gcp/iam/lmbr-devops-iam-scripts/gcp$ ^C
+rdias@WS000NB1626:/mnt/g/Meu Drive/code/gcp/iam/lmbr-devops-iam-scripts/gcp$ ./gcp.sh 
+
+Analisando projeto: delivery-promise-prd-brlm
